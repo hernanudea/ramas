@@ -8,6 +8,11 @@
     tools:context="com.githut.ramas.MainActivity"
     tools:showIn="@layout/activity_main">
 
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="radio en master"/>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
