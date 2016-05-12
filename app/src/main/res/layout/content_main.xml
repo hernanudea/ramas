@@ -22,7 +22,20 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Boton en desarrollo 2"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Boton en desarrollo 3"/>
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Boton en desarrollo 4"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Boton en desarrollo 5"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
