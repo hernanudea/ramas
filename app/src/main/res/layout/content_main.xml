@@ -8,6 +8,10 @@
     tools:context="com.githut.ramas.MainActivity"
     tools:showIn="@layout/activity_main">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Esto es rama desarrollo"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
